@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is my Second project - tester -Main
+This is my Second project - tester -Main   In a git hub
 =======
 This is my Second project - tester - New
 >>>>>>> tester
